@@ -168,3 +168,7 @@ int main(){
         wait(speed);
     }
 }
+
+void NoUseFunction(){
+	//commit test
+}
